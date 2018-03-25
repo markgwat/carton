@@ -3,7 +3,7 @@ Carton Cloud Test API
 
 Working File/Paths
 Class files: BearClaw/Warehousing/
-Vue Componenet: resources/assets/js/components/ExampleComponent.vue
+Vue Component: resources/assets/js/components/ExampleComponent.vue
 Route: routes/web.php
 
 Configure paths:
