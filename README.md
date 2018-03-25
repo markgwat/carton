@@ -12,6 +12,10 @@ Configure paths:
     sudo chown -R www-data:www-data bootstrap/cache
     sudo chown -R www-data:www-data storage
  
+Run Web Test:
+Set DocumentRoot to pubic folder
+
+
 Run PHP unit Tests:
     vendor/bin/phpunit
 
