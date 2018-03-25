@@ -13,7 +13,7 @@ Configure paths:
     sudo chown -R www-data:www-data storage
  
 Run Web Test:
-Set DocumentRoot to pubic folder
+Set DocumentRoot to public folder
 
 
 Run PHP unit Tests:
