@@ -15,10 +15,6 @@ class PurchaseOrderService extends Controller
 
     }
     
-    public static function test(){
-        return 'hello';
-    }
-
     public function execute(Request $request){
         $response = array();
         $response['result'] = $this->calculateTotals($request->purchase_order_ids);       
